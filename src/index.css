@@ -31,3 +31,15 @@
     background-color: silver;
     color: ghostwhite;
 }
+body {
+    background-color: coral;
+}
+.header {
+    display: flex;
+    background-color: brown;
+    color: orange;
+    align-items: center;
+}
+.header ul {
+
+}
